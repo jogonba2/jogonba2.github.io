@@ -67,6 +67,7 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      <li><a href="https://huggingface.co/{{ author.huggingface }}"><i class="fab fa-fw" aria-hidden="true">🤗</i> HuggingFace</a></li>
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
@@ -117,7 +118,10 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      
+       
+
     </ul>
   </div>
 </div>
