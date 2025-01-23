@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "Hi!👋😊t"
+excerpt: "Hi!👋😊"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hi!👋😊
 
 I'm José, an NLP researcher deeply passionate about exploring the limitless possibilities of natural language processing. I did my PhD at the *Universitat Politècnica de València*](https://www.upv.es), supervised by Dr. Lluís Felip hurtado and Dr. Emilio Sanchis under the umbrella of the [*Enginyeria del Llenguatge i Reconeixement de Formes*](http://elirf.upv.es) (*ELIRF*) research group in the [*Valencian Research Institute for Artificial Intelligence*](https://vrain.upv.es/) (*VRAIN*). It focused on summarization and attention-based models, but my work spans a wide range of NLP topics, including: 📚 [Zero- and few-shot] Text Classification, 😊 Sentiment and Emotion Analysis, 🌟 Figurative Language Understanding, 🗣️ Dialogue Systems, 📄 Information Extraction, or 🤖 Machine-Generated Text Detection.
 
